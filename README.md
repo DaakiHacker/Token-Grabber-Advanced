@@ -1,4 +1,4 @@
-> # __**VENAX DISCORD TOKEN GRABBER**__<br>
+> # __**DAKI DISCORD TOKEN GRABBER**__<br>
 
 For people that constantly ask me to update it so it can decrypt the new Discord clients tokens,
 I tested it and it is working, so the grabber already has already been updated, and upgraded, for me.
